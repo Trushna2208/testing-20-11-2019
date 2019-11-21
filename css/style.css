@@ -13,11 +13,12 @@ p { margin:0px;}
 .icon-bar { background-color:#ffffff;}
 .nav li a{ padding:0px ; }
 li.navigation_point { padding: 0px 0px 0px 30px;}
-li.navigation_point a{ color:#fff;}
+li.navigation_point a{ color:#000;}
 li.navigation_point a:hover {
     text-decoration: none;
 	background-color:#272727;
 	color:#ffffff;
+	padding:10px;
 }
 .navbar-collapse{ padding-right:0px;}
 
