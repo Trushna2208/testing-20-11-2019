@@ -42,7 +42,7 @@ li.navigation_point a:hover {
 .imgCaption { position: relative; float: left; width: 270px; }
 .contentCaption { width: 290px; float: right;}
 .pad_bottom40{ padding-bottom:40px;}
-.content_title{ font-family:'Open Sans', Arial, sans-serif; font-weight:600; font-size:20px; line-height:22px; color:#ffffff; padding:28px 0px 15px; text-align:left;}
+.content_title{ font-family:'Open Sans', Arial, sans-serif; font-weight:600; font-size:26px; line-height:29px; color:#34d6ce; padding:28px 0px 15px; text-align:left;}
 .content_text{ font-family:'Open Sans', Arial, sans-serif; font-weight:400; font-size:16px; line-height:26px; color:#ffffff; padding:0px 0px 17px; text-align:left;  padding-right:20px;}
 .content_text.pad_right{ padding-right:0px;}
 .divider{ padding:80px 0px 0px;}
